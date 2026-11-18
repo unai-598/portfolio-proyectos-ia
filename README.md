@@ -18,4 +18,4 @@ Soy Unai. Aquí reúno proyectos en los que uso IA para diseñar webs y converti
 
 | Proyecto | Qué puedes ver | Acceso |
 | --- | --- | --- |
-| **Evaluación de proveedores** · ChatGPT Work | Un análisis de 600 pedidos que sirve de base para proponer la renegociación con cuatro proveedores y estudiar alternativas para uno. | [Ver el resumen y los entregables](https://unai-598.github.io/portfolio-ia-compras-proveedores/) · [Leer el caso](Sistemas%20de%20IA%20creados%20con%20ChatGPT%20Sites/Evaluaci%C3%B3n%20de%20proveedores/) |
+| **Evaluación de proveedores** · ChatGPT Work | Un análisis de 600 pedidos que sirve de base para proponer la renegociación con cuatro proveedores y estudiar alternativas para uno. | [Ver el resumen y los entregables](https://unai-598.github.io/portfolio-ia-compras-proveedores/) · [Leer el caso](Sistemas%20de%20IA%20creados%20con%20ChatGPT%20Work/Evaluaci%C3%B3n%20de%20proveedores/) |
